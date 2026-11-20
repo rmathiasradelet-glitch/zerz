@@ -1,0 +1,5 @@
+owner: Vertexxss
+repo: hexleak-loader
+provider: github
+releaseType: release
+updaterCacheDirName: hexleak-loader-updater
